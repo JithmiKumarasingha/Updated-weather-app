@@ -1,0 +1,22 @@
+[
+  {"id": 2643743, "name": "London", "country": "GB"},
+  {"id": 2988507, "name": "Paris", "country": "FR"},
+  {"id": 2950159, "name": "Berlin", "country": "DE"},
+  {"id": 3117735, "name": "Madrid", "country": "ES"},
+  {"id": 3169070, "name": "Rome", "country": "IT"},
+  {"id": 524901, "name": "Moscow", "country": "RU"},
+  {"id": 703448, "name": "Kiev", "country": "UA"},
+  {"id": 756135, "name": "Warsaw", "country": "PL"},
+  {"id": 2761369, "name": "Vienna", "country": "AT"},
+  {"id": 2618425, "name": "Copenhagen", "country": "DK"},
+  {"id": 2673730, "name": "Stockholm", "country": "SE"},
+  {"id": 658225, "name": "Helsinki", "country": "FI"},
+  {"id": 264371, "name": "Athens", "country": "GR"},
+  {"id": 2267057, "name": "Lisbon", "country": "PT"},
+  {"id": 2759794, "name": "Amsterdam", "country": "NL"},
+  {"id": 2800866, "name": "Brussels", "country": "BE"},
+  {"id": 3435910, "name": "Buenos Aires", "country": "AR"},
+  {"id": 3451190, "name": "Rio de Janeiro", "country": "BR"},
+  {"id": 5128581, "name": "New York", "country": "US"},
+  {"id": 5368361, "name": "Los Angeles", "country": "US"}
+]
