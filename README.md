@@ -20,15 +20,18 @@ A secure weather application with Auth0 authentication that displays weather inf
 
 ### 1. Clone Repository
 
-git clone <repository-url>
+git clone https://github.com/JithmiKumarasingha/Updated-weather-app.git
+
 cd weather-app
 
 
 ### 2. Backend Setup
 
 cd backend
+
 npm install
-cp .env.example .env
+
+
 # Update .env with your credentials
 npm run dev
 
@@ -36,8 +39,10 @@ npm run dev
 ### 3. Frontend Setup
 
 cd frontend
+
 npm install
-cp .env.example .env
+
+
 # Update .env with your Auth0 credentials
 npm start
 
@@ -46,9 +51,10 @@ npm start
 
 #### Backend (.env)
 - PORT=5000
-- OPENWEATHER_API_KEY=your_api_key
-- AUTH0_DOMAIN=your_domain.auth0.com
-- AUTH0_AUDIENCE=your_api_identifier
+- OPENWEATHER_API_KEY=688ed72655697ec16eb89347
+- AUTH0_DOMAIN=https://dev-4ofpsrm6xu3gydtf.us.auth0.com
+- AUTH0_AUDIENCE=https://weather-app-api
+- NODE_ENV=development
 
 #### Frontentend
 - PORT=3000
